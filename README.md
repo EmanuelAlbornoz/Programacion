@@ -5,3 +5,4 @@ Semana 2-> 10
 Semana 3 -> 10
 Semana 4 -> No hubo
 Semana 5 ->
+Semana 10 -> 
