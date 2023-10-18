@@ -1,0 +1,1 @@
+gcc main.c program_logic.c user_interface.c -Wall -g -o juego_de_la_vida
